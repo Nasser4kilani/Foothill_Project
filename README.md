@@ -1,1 +1,1 @@
-# Foothill_Project
+# Simple_Inventory_Sysytem
