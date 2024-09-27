@@ -8,7 +8,6 @@ namespace Foothill_Project.Simple_Inventory_Management_System
 {
     public class Product
     {
-        int sss = 6;
         private string Name;
         private int Price;
         private int Quantity;
