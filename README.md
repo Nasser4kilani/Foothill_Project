@@ -1,1 +1,1 @@
-# Simple_Inventory_Sysytem
+# Simple_Inventory_Management_System
