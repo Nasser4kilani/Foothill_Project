@@ -3,8 +3,8 @@ This console-based application allows users to manage a basic inventory system f
 
 # Features :
 
-Add a Product: Add new products by providing their name, price, and quantity.
-View All Products: Display a list of all products in the inventory.
-Edit a Product: Update the name, price, or quantity of an existing product.
-Delete a Product: Remove a product from the inventory.
-Search for a Product: Search for a product by name and view its details.
+- Add a Product: Add new products by providing their name, price, and quantity.
+- View All Products: Display a list of all products in the inventory.
+- Edit a Product: Update the name, price, or quantity of an existing product.
+- Delete a Product: Remove a product from the inventory.
+- Search for a Product: Search for a product by name and view its details.
